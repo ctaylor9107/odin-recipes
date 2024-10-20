@@ -6,4 +6,13 @@ body{
     font-size: 30px;
     font-weight: 900;
     background-color: red;
+    text-align: center;
+}
+
+#steps{
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
 }
