@@ -2,3 +2,8 @@ body{
     font-family: Arial, "Times New Roman", sans-serif
 }
 
+#ingredients{
+    font-size: 30px;
+    font-weight: 900;
+    background-color: red;
+}
