@@ -4,7 +4,7 @@ body{
 
 #ingredients{
     font-size: 30px;
-    font-weight: 900;
+    font-weight: 900; Currently, it’s just a plain list, so get creative with layouts, colors, and styles to make your page uniquely captivating.
     background-color: red;
     text-align: center;
 }
@@ -17,12 +17,25 @@ body{
     text-align: center;
 }
 
+#index-list{
+    text-align: center;
+    list-style-type: none;
+    padding: 10px;
+    margin: 50px 200px;
+}
+
+#index-list li{
+    margin: 10px;
+}
+
 h1{
-    font-size: 75px;
+    font-size: 70px;
     font-weight: 900;
     background-color: black;
     color:white;
     text-align: center;
+    padding: 20px;
+    margin: 40px 300px;
 }
 
 h2{
